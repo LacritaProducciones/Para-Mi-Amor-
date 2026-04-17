@@ -10,20 +10,9 @@ const finalMessage = document.getElementById("finalMessage");
 const loveText = document.getElementById("loveText");
 
 // Mensaje romántico
-const mensaje = `Mi amor, 
-Hoy cumplimos 1 mes juntos y no tengo palabras para describir lo feliz que me haces. 
-Cada día contigo ha sido un regalo, un capítulo lleno de risas y momentos que guardo en lo más profundo de mi corazón. 
-
-Gracias por tu amor, por tu paciencia, por tu ternura y por ser mi compañera en cada instante. 
-Eres mi alegría en los días tristes, mi paz en los momentos difíciles y mi razón para sonreír sin motivo. 
-
-Este primer mes es solo el comienzo de todo lo que quiero vivir contigo. 
-Quiero seguir tomándote de la mano y caminar juntos hacia un futuro lleno de sueños cumplidos, besos robados y abrazos infinitos. 
-
-Te amo más de lo que las palabras pueden decir ❤️ 
-Y cada día que pasa, mi amor por ti solo crece más. 
-
-Feliz primer mes, mi vida. Por nosotros, por siempre.`;
+const mensaje = `No se que putas decir xd, pero te conozco desde hace mucho tiempo y no se me has cautivado,
+siempre hemos estado el uno para el otro en situaciones buenas como malas, y creo que nos conocemos lo suficiente 
+y no se que mas decir  estoy pendejo ( me tienes)  te gustaria intentar algo?`;
 
 // Botón "No" que se escapa
 noBtn.addEventListener("mouseover", () => {
